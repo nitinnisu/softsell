@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import HeroSection from '.components/HeroSection';
+import HeroSection from './components/HeroSection';
 import HowItWorks from './components/HowItWorks';
 import WhyChooseUs from './components/WhyChooseUs';
 import ContactForm from './components/ContactForm';
