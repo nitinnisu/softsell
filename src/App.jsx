@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import HeroSection from '../../../inten/my-project/src/components/HeroSection';
-import HowItWorks from '../../../inten/my-project/src/components/HowItWorks';
-import WhyChooseUs from '../../../inten/my-project/src/components/WhyChooseUs';
-import ContactForm from '../../../inten/my-project/src/components/ContactForm';
+import HeroSection from '.components/HeroSection';
+import HowItWorks from './components/HowItWorks';
+import WhyChooseUs from './components/WhyChooseUs';
+import ContactForm from './components/ContactForm';
 import './index.css';
 
 function App() {
